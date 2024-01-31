@@ -6,3 +6,5 @@ public class demo{
    system.out.println("c");
   }
 }
+public class new{
+    }
